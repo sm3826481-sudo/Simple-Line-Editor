@@ -19,3 +19,24 @@ Inserts a new line at the given line number.
 Enter command: i
 Enter line number: 2
 Enter text: Hello World
+
+
+
+d - Delete Line
+Deletes a line at the given line number.
+
+Usage:
+Enter command: d
+Enter line number: 2
+
+p - Display Document
+Displays all lines with line numbers.
+
+Usage:
+Enter command: p
+
+q - Quit
+Exits the editor.
+
+Usage:
+Enter command: q
