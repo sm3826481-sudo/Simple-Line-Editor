@@ -18,3 +18,12 @@ The program uses an array of strings to store document lines.
 
 ```c
 char lines[100][200];
+
+
+## How to Compile and Run
+
+1. Compile the program:
+   gcc main.c -o LineEditor
+
+2. Run the editor:
+   ./LineEditor
